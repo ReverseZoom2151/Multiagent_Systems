@@ -1,8 +1,8 @@
-# 🦠 COVID Simulation Lab 1 🦠
+# 🦠 COVID Simulation Lab 🦠
 
 ## Project Overview
 
-The COVID Simulation Lab 1 is an exploratory data analysis and simulation project designed to understand the dynamics of COVID-19 spread under various public health intervention scenarios. Through a series of simulations, this lab investigates how different strategies, such as the implementation of quarantine centers and the enforcement of social distancing norms, affect the rate of COVID-19 spread within a hypothetical population. Starting with initial infection rates of 10%, 25%, and 50%, the project provides insights into the potential outcomes of public health decisions.
+The COVID Simulation Lab is an exploratory data analysis and simulation project designed to understand the dynamics of COVID-19 spread under various public health intervention scenarios. Through a series of simulations, this lab investigates how different strategies, such as the implementation of quarantine centers and the enforcement of social distancing norms, affect the rate of COVID-19 spread within a hypothetical population. Starting with initial infection rates of 10%, 25%, and 50%, the project provides insights into the potential outcomes of public health decisions.
 
 ## Agents in Simulation 🤖
 
