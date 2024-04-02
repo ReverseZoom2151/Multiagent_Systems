@@ -4,6 +4,17 @@
 
 The COVID Simulation Lab 1 is an exploratory data analysis and simulation project designed to understand the dynamics of COVID-19 spread under various public health intervention scenarios. Through a series of simulations, this lab investigates how different strategies, such as the implementation of quarantine centers and the enforcement of social distancing norms, affect the rate of COVID-19 spread within a hypothetical population. Starting with initial infection rates of 10%, 25%, and 50%, the project provides insights into the potential outcomes of public health decisions.
 
+## Agents in Simulation 🤖
+
+The simulations employ a model of agents representing individuals within the population. Each agent's behavior and interactions are defined based on several key characteristics:
+
+- **Health Status:** Agents can be healthy, infected, or recovered. This status determines their interactions and mobility within the simulation environment.
+- **Mobility:** Agents move within the simulation space, representing the daily movements of individuals. Mobility patterns are adjusted according to the scenario, such as reduced mobility under social distancing norms.
+- **Interactions:** Agents interact with one another within the simulation space. The nature and frequency of interactions can lead to the spread of the virus among agents.
+- **Compliance:** In scenarios involving social distancing or quarantine measures, agents may have varying levels of compliance, reflecting the diverse responses of a real population to public health directives.
+
+These agents are at the core of the simulation, allowing for a dynamic and realistic modeling of COVID-19 spread under different public health interventions.
+
 ## Simulation Scenarios: 🧪
 
 This project includes nine distinct scenarios, categorized into three main groups:
